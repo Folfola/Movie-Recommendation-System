@@ -20,4 +20,3 @@ Movie details
 - SQLite
 - Skiket learn.
 
-gi tnkhrb9 wlh . but It will be good in the end
